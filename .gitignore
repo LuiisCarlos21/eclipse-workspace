@@ -1,0 +1,6 @@
+# Esta regla sirve para ignorar los siguientes archivos:
+*.classpath
+*.metadata
+*.project
+*.settings
+*.bin
